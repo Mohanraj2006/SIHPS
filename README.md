@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date: 07.05.24
+# Date: 13.05.24
 ## Register Number: 212223040114
 ## Name: MOHAN RAJ C
 ## Problem Title
@@ -13,9 +13,17 @@ Ministry of Environment
 The increasing amount of electronic waste (e-waste) poses significant environmental and health hazards if not properly managed. However, many individuals and businesses struggle to locate nearby facilities equipped to handle e-waste disposal. Creating a centralized platform to locate these facilities could streamline the process of responsibly disposing of electronic devices.
 
 ## Proposed Solution / Architecture Diagram
+
+
+![328744386-6d73b151-6ff0-407d-af2d-d3bb53776120](https://github.com/Mohanraj2006/SIHPS/assets/152195759/cbb51846-7a8b-44ce-a787-646ab151902a)
+
 Develop a web or mobile application that allows users to easily locate nearby e-waste recycling facilities based on their current location or specified area. The application would provide information such as facility addresses, contact details, operating hours, accepted items, and any specific instructions for disposal. Users could also rate and review facilities based on their experiences, helping others make informed decisions.
 
 ## Use Cases
+
+![329215163-0c5bbdc2-8d79-411a-96ac-c5dccbd551aa](https://github.com/Mohanraj2006/SIHPS/assets/152195759/8a7c306a-9503-4411-96d1-bcceca34b4bd)
+
+
 1. Individuals: People looking to dispose of old electronic devices such as smartphones, laptops, or TVs can use the app to find the nearest recycling center.
 
 2. Businesses: Companies seeking to responsibly dispose of bulk e-waste from outdated equipment or office electronics can locate appropriate facilities for proper recycling or disposal.
